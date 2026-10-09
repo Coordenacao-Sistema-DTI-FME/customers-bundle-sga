@@ -8,15 +8,15 @@
       </trans-unit>
       <trans-unit id="module.description">
         <source>module.description</source>
-        <target>Cadastro e gerenciamento dos clientes atendidos</target>
+        <target>Cadastro e gerenciamento dos Responsáveis atendidos</target>
       </trans-unit>
       <trans-unit id="title">
         <source>title</source>
-        <target>Clientes</target>
+        <target>Responsáveis</target>
       </trans-unit>
       <trans-unit id="subtitle">
         <source>subtitle</source>
-        <target>Gerencie os clientes atendidos</target>
+        <target>Gerencie os Responsáveis atendidos</target>
       </trans-unit>
       <trans-unit id="label.name">
         <source>label.name</source>
@@ -32,7 +32,7 @@
       </trans-unit>
       <trans-unit id="button.new_customer">
         <source>button.new_customer</source>
-        <target>Novo cliente</target>
+        <target>Novo Responsável</target>
       </trans-unit>
       <trans-unit id="button.save">
         <source>button.save</source>
