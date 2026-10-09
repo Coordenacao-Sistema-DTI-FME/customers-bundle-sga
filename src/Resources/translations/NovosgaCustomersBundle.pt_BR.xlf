@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="module.name">
         <source>module.name</source>
-        <target>Clientes</target>
+        <target>Responsáveis</target>
       </trans-unit>
       <trans-unit id="module.description">
         <source>module.description</source>
