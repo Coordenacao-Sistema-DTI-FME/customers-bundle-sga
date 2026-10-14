@@ -120,7 +120,7 @@
       </trans-unit>
       <trans-unit id="label.notes">
           <source>label.notes</source>
-          <target>Observação</target>
+          <target>Observação do Responsável</target>
       </trans-unit>
       <trans-unit id="label.add_success">
           <source>label.add_success</source>
