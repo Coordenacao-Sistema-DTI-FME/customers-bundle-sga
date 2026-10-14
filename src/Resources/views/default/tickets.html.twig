@@ -28,6 +28,7 @@
                 <th>{{ 'label.date'|trans }}</th>
                 <th>{{ 'label.status'|trans }}</th>
                 <th>{{ 'label.resolucao'|trans }}</th>
+                <th>{{ 'label.observacao'|trans }}</th>
             </tr>
         </thead>
         <tbody>
@@ -40,6 +41,7 @@
                     <td>{{ a.dataChegada|date('d/m/Y H:i', a.unidade.timezone) }}</td>
                     <td>{{ a.status }}</td>
                     <td>{{ a.resolucao }}</td>
+                    <td>{{ a.observacao }}</td>
                 </tr>
             {% else %}
                 <tr>

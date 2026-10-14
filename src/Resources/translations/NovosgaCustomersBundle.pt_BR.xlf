@@ -86,6 +86,10 @@
         <source>label.resolucao</source>
         <target>Resolução</target>
       </trans-unit>
+      <trans-unit id="label.observacao">
+        <source>label.observacao</source>
+        <target>Observação do atendimento</target>
+      </trans-unit>
       <trans-unit id="label.date">
         <source>label.date</source>
         <target>Data chegada</target>
